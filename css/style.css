@@ -1,0 +1,66 @@
+<style type="text/css" media="all">
+  body {
+    /* Set margin to 0 pixels on all sides */
+    margin: 0px;
+    /* Set font family to be Helvetica or Arial */
+    font-family: Helvetica, Arial;
+    /* Set line height to be 1.5 times larger than default */
+    text-align: 1.5x;
+  }
+
+  header {
+    /* Set text alignment to center */
+    align-content: center;
+  }
+
+  main {
+    /* Set maximum width to be 800 pixels */
+    max-width: 800px;
+    /* Set margin to be automatically calculated on all sides */
+    margin: auto;
+    /* Set padding to be 0 pixels top & bottom, and 20 pixels left & right */
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  p {
+    /* Set font color to be the hex code 333333 */
+  }
+  img {
+    max-width: 100%;
+  }
+  img#godzilla {
+    position: absolute;
+    top 0px;
+    left: 20px;
+    width: 80%;
+  }
+  h1 {
+    /* Set border along bottom to be a black solid line 5 pixels  thick */
+    border-bottom: 5px solid black;
+  }
+
+  h2 {
+    /* Set font color to be red (BONUS: try using a hex code like #e51b24!) */
+    color: black;
+  }
+
+  .about-box {
+    border: solid 5px green;
+    display: inline-block;P
+    padding: 20px;
+    margin: 20px;
+  }
+  footer {
+    /* Set font color to white */
+    color: white;
+    /* Set background color to black */
+    background-color: black;
+    /* Set padding on all sides to be 20 pixels */
+    /* Set text alignment to center */
+    /* Set margin on top to be 60 pixels */
+    margin-top: 60px;
+  }
+</style>
